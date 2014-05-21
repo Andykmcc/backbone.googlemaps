@@ -9,7 +9,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/Andykmcc/backbone.googlemaps.git"
-  }
+  },
   "description": "A Backbone JS extension for interacting with the Google Maps API (v3.10).",
   "main": "lib/backbone.googlemaps.js",
   "keywords": [
