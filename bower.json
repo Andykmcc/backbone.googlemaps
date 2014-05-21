@@ -1,11 +1,16 @@
 {
-  "name": "backbone.googlemaps",
+  "name": "backbone.googlemaps.propane",
   "version": "1.0.0",
   "homepage": "https://github.com/eschwartz/backbone.googlemaps",
   "authors": [
-    "Edan Schwartz <edanschwartz@gmail.com>"
+    "Edan Schwartz <edanschwartz@gmail.com>",
+    "Andy McCoy <andy.k.mccoy@gmail.com>"
   ],
-  "description": "A Backbone JS extension for interacting with the Google Maps API (v3.10)",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Andykmcc/backbone.googlemaps.git"
+  }
+  "description": "A Backbone JS extension for interacting with the Google Maps API (v3.10).",
   "main": "lib/backbone.googlemaps.js",
   "keywords": [
     "backbone",
